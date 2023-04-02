@@ -1,3 +1,2 @@
--Notebook d'Exercices : Handling-Missing-Data
--Workshop 3 : Gestion des Valeurs-Aberrantes
--Workshop 4 : Data-Transformation
+- Workshop 3 : Gestion des Valeurs-Aberrantes
+- Workshop 4 : Data-Transformation
