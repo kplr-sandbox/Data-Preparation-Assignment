@@ -1,3 +1,2 @@
--Workshop 1 : Débuter avec Pandas
--Notebook d'Exercices : Débuter avec Pandas
--Workshop 2 : Handling-Missing-Data
+- Workshop 1 : Débuter avec Pandas
+- Workshop 2 : Handling-Missing-Data
