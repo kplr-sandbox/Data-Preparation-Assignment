@@ -1,0 +1,1 @@
+- Capstone Project : Étapes générales d'exploration et de préparation pour les données catégorielles
